@@ -15,3 +15,7 @@
     ![Discord](https://img.shields.io/discord/1279910494425186446?style=flat&logo=discord&logoColor=%2330b893&label=%E2%80%8E%20&labelColor=%E2%80%8E%E2%80%8E&color=%2330b893)
   </a>
 </div>
+
+## `Information`
+
+* **Known Bugs:** When you use the `groupCreator` command more than one time it throws an error in the console, but besides that everything at the moment seems working as intended.

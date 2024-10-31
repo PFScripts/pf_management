@@ -1,0 +1,27 @@
+{
+  "groupInputDialog": {
+    "heading": "Group Creator",
+    "rows": {
+      "groupName": "Name",
+      "groupLabel": "Label",
+      "groupGrades": "How many grades the group should have",
+      "groupType": "The group type?",
+      "groupHasAccount": "Does the group has a default bank account?"
+    }
+  },
+  "GradeInputDialog": {
+    "heading": "%s | Grade - %d",
+    "rows": {
+      "gradeName": "Name",
+      "gradeAccountRole": "The bank account role that this grade should have?"
+    }
+  },
+  "OxAccounts": {
+    "roles": {
+      "viewer": "Viewer",
+      "contributor": "Contributor",
+      "manager": "manager",
+      "owner": "Owner"
+    }
+  }
+}

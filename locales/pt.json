@@ -1,0 +1,27 @@
+{
+  "groupInputDialog": {
+    "heading": "Criador de Grupo",
+    "rows": {
+      "groupName": "Nome",
+      "groupLabel": "Rótulo",
+      "groupGrades": "Quantos cargos deve ter o grupo?",
+      "groupType": "Qual é o tipo do grupo?",
+      "groupHasAccount": "O grupo tem uma conta bancária padrão?"
+    }
+  },
+  "GradeInputDialog": {
+    "heading": "%s | Cargo - %d",
+    "rows": {
+      "gradeName": "Nome",
+      "gradeAccountRole": "Qual o nível que o cargo deve ter ba conta bancária?"
+    }
+  },
+  "OxAccounts": {
+    "roles": {
+      "viewer": "Visualizador",
+      "contributor": "Colaborador",
+      "manager": "Gestor",
+      "owner": "Proprietário"
+    }
+  }
+}
